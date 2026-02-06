@@ -1,4 +1,4 @@
-# page26
+# page26 (under development)
 
 **page26** is an advanced Urdu desktop publishing application that represents an upgraded version of InPage with modern AI integration. Page26 combines traditional desktop publishing features with intelligent AI assistance for writing, editing, and formatting.
 
@@ -181,6 +181,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Inspired by InPage desktop publishing software
 - Enhanced with modern AI capabilities
 ---
+<img width="1366" height="738" alt="page" src="https://github.com/user-attachments/assets/3b7e4607-40f2-4eb8-a639-e3626726b0ef" />
+<img width="1366" height="738" alt="dashboard" src="https://github.com/user-attachments/assets/19c940ee-177e-49e1-bd10-56c605209d6e" />
 
 **page26** - Modern Urdu Desktop Publishing with AI Integration
 
