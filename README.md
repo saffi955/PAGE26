@@ -1,10 +1,6 @@
 # page26
 
-**page26** is an advanced Urdu desktop publishing application that represents an upgraded version of InPage with modern AI integration. Similar to how Adobe software like Photoshop and Illustrator have integrated AI capabilities, page26 combines traditional desktop publishing features with intelligent AI assistance for writing, editing, and formatting.
-
-## 📝 Description
-
-page26 is an advanced Urdu desktop publishing application that upgrades InPage with modern AI integration. It features built-in templates and an AI assistant to help with writing, editing, and formatting, bringing Adobe-style AI capabilities to Urdu DTP.
+**page26** is an advanced Urdu desktop publishing application that represents an upgraded version of InPage with modern AI integration. Page26 combines traditional desktop publishing features with intelligent AI assistance for writing, editing, and formatting.
 
 ## 🚀 Features
 
@@ -115,7 +111,7 @@ python main.py
 ## 📁 Project Structure
 
 ```
-UrduPage/
+PAGE26/
 ├── main.py                 # Application entry point
 ├── requirements.txt        # Python dependencies
 ├── assets/
@@ -178,20 +174,12 @@ python test_startup.py
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-[Specify your license here]
 
 ## 🙏 Acknowledgments
 
 - Built on PyQt6 framework
 - Inspired by InPage desktop publishing software
 - Enhanced with modern AI capabilities
-
-## 📞 Support
-
-For issues, questions, or contributions, please open an issue on the repository.
-
 ---
 
 **page26** - Modern Urdu Desktop Publishing with AI Integration
